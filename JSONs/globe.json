@@ -1,0 +1,10 @@
+[{
+    "Subject_Name": "Question Of Life",
+    "Email_To": "SomeOne@example.com",
+    "Email_Subject": "QOL_Exam",
+    "Exam_Start_Time": "13:25:00",
+    "Exam_End_Time": "13:26:00",
+    "Exam_End_Date": "Jul 6, 2022",
+    "Pass_Marks": "20",
+    "Full_Marks": "50"
+}]

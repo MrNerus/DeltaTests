@@ -1,0 +1,61 @@
+[{
+        "Qn_Number": "1",
+        "Question": "Define You. The question is not about your name. It is about What makes you, \"YOU.\"",
+        "Weight": "5",
+        "Optimum_Time": "10"
+    },
+    {
+        "Qn_Number": "2",
+        "Question": "Is your existance defined with purpus? Or Are you just alive?",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "3",
+        "Question": "Are you where you want to be? Are wou where you supposed to be?",
+        "Weight": "5",
+        "Optimum_Time": "10"
+    },
+    {
+        "Qn_Number": "4",
+        "Question": "Define love. (Striaght fail if you say \"Love is life\")",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "5",
+        "Question": "Do you think you have free will? Or is it just Simulated Experience? Or something else?",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "6",
+        "Question": "What do you think will happen to every emotion you felt, every thing you thought, after you die. (Assuming soul exists)",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "7",
+        "Question": "Everyone set limit just below what they did. Exanple: Even thief claims to be good in there own way. Where do you think the border between Good and bad lies?",
+        "Weight": "5",
+        "Optimum_Time": "10"
+    },
+    {
+        "Qn_Number": "8",
+        "Question": "We cannot explain Color Red to blind. We cannot be sure if we both process same visuals for color red. Will tewchnology help us escape from this kind of communication gap?",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "9",
+        "Question": "You always move forward, But in which direction? How Can You know before it is too late? Can you even know?",
+        "Weight": "3",
+        "Optimum_Time": "6"
+    },
+    {
+        "Qn_Number": "10",
+        "Question": "Write an essay on **Choose any one:<br>&nbsp;&nbsp;&nbsp;&nbsp;i. Success is a progress (Feel every moment you get. Time is not comming back)<br>&nbsp;&nbsp;&nbsp;&nbsp;OR<br>&nbsp;&nbsp;&nbsp;&nbsp;ii. Success is a Destination (Work hard in silence and let your sport car make noise)",
+        "Weight": "8",
+        "Optimum_Time": "20"
+    }
+]
